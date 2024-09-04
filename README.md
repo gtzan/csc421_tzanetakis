@@ -8,8 +8,8 @@ The website for the book can be found at:
 
 Notebooks: 
 
-*. Introduction 
-*. Agents 
+* Introduction 
+* Agents 
 
 
 
