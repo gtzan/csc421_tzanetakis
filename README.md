@@ -6,4 +6,11 @@ The website for the book can be found at:
 [Artificial Intellignece: A Modern Approach](https://aima.cs.berkeley.edu/)
 
 
+Notebooks: 
+
+*. Introduction 
+*. Agents 
+
+
+
 
