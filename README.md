@@ -9,6 +9,7 @@ The website for the book can be found at:
 Notebooks: 
  
 * [Introduction](https://github.com/gtzan/csc421_tzanetakis/blob/main/csc421_tzanetakis_introduction.ipynb)
+* [Agents](https://github.com/gtzan/csc421_tzanetakis/blob/main/csc421_tzanetakis_agents.ipynb)
 
 
 
